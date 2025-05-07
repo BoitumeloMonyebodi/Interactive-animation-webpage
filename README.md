@@ -11,13 +11,6 @@ This is a simple interactive webpage that demonstrates:
 - Buttons to start animation, save state, and load state
 - Persistent animation state using `localStorage`
 
-## Live Demo
-
-View the project on **GitHub Pages**:  
-[https://BoitumeloMonyebodi.github.io/interactive-animation-webpage](https://BoitumeloMonyebodi.github.io/interactive-animation-webpage)
-
-> Replace `your-username` with your actual GitHub username.
-
 ## How to Use
 
 1. **Clone the repo**:
