@@ -1,0 +1,18 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: teal;
+  margin: 20px;
+  transition: transform 0.5s, background-color 0.5s;
+}
+
+.animate {
+  animation: bounce 1s ease-in-out infinite;
+  background-color: orange;
+}
+
+@keyframes bounce {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-50px); }
+  100% { transform: translateY(0); }
+}
